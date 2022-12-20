@@ -147,6 +147,8 @@ Cada habitación estaba plagada de estímulos, que por más que volvieras una te
 - _DALL·E 2_ [en línea] [consulta: 10 de diciembre de 2022]. Disponible en: https://openai.com/dall-e-2/
 - _DALL-E 2 ya puede expandir imágenes más allá de sus bordes_ [en línea] [consulta: 18 de diciembre de 2022]. Disponible en: https://hipertextual.com/2022/08/dalle-2-expandir-imagenes-mas-alla-de-sus-bordes
 - _teamLab Borderless: MORI Building DIGITAL ART MUSEUM | teamLab_ [en línea] [consulta: 16 de diciembre de 2022]. Disponible en: https://www.teamlab.art/e/borderless_azabudai/
+- _Infografía_ [en línea] [consulta: 20 de diciembre de 2022]. Disponible en:https://www.uoc.edu/biblioteca/es/recursos/gestion-bibliografica-uoc/6.html
+- _Teamlab borderless - Wikipedia, la enciclopedia libre_ [en línea] [consulta: 14 de diciembre de 2022]. Disponible en: https://es.wikipedia.org/wiki/Teamlab_borderless
 
  
 
