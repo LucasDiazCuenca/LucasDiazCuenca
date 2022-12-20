@@ -102,13 +102,13 @@ El museo no cuenta con un camino establecido, dando libre albedrío al visitante
 
 
 
-Quizas me doy cuenta que soy una persona visual en cuanto a los ejemplos de hibridacíon, puesto que he elegido un segundo caso que no da lugar a dudas que tratamos con un hibrido. 
-En este caso, la escenografía virtual con sus parámetros iniciales, están delimitados por la interactividad de las personas y las dimensiones de los espacios. 
+Quizás me doy cuenta de que soy una persona visual en cuanto a los ejemplos de hibridación, puesto que he elegido un segundo caso que no da lugar a dudas que tratamos con un híbrido. 
+En este caso, la escenografía virtual, con sus parámetros iniciales, están delimitados por la interactividad de las personas y las dimensiones de los espacios. 
 Durante el paseo, podemos ver que el ordenador puede llegar a leer los movimientos corporales y los gestos de las personas que interactúan con las proyecciones de la pared y emplea esta información para controlar la generación de una escenografía dinámica, alterando sus patrones, colores, formas y dimensiones. De esta forma, conforme se va caminando a lo largo de la experiencia, se transforma en una experiencia dinámica, interactiva, que va cambiando a lo largo del recorrido. De esta manera, la apariencia de una habitación cambia por completo, según el grado de interactividad. 
 
 Podemos decir aquí que este medio híbrido ha sufrido una reestructuración, Se ha cambiado la configuración de los elementos que conforman la _estructura de datos_ de las dimensiones de las proyecciones. ha sido redimensionada para adaptarse a un espacio (habitación) y conformar una nueva forma. Esta nueva estructura conserva la información y su relación. Pero también cuenta con unas nuevas dimensiones, tamaño, bordes, interactividad, que combina los espacios como los de la habitación para configurar un nuevo medio. 
 
-En este caso podemos deducir que se trata de una hibridación de interfaz de usuario, ya que nos ofrece una nueva forma de navegar e interactuar con el medio. Las operaciones específicas que antes caracterizaban los medios, como un simple video, ahora se combinan para ofrecer al usuario otras maneras de navegar e interactuar con el medio ambiente.  
+En este caso podemos deducir que se trata de una hibridación de interfaz de usuario, ya que nos ofrece una nueva forma de navegar e interactuar con el medio. Las operaciones específicas que antes caracterizaban los medios, como un simple video, ahora se combinan para ofrecer al usuario otras maneras de navegar e interactuar con el medio ambiente.    
 
 
 ![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/4.gif)
@@ -116,9 +116,9 @@ En este caso podemos deducir que se trata de una hibridación de interfaz de usu
 
 ### Conclusiones de Mori Building Digital Art Museum (Teamlab borderless)
 
-En este caso me toca de cerca, ya que el material visual en forma de GIF son de mi propia camara, y hasta dia de hoy, me es imposible recordar ese paseo sin sentirme nimio frente a semejante metratella de estimulos. He de reconocer que no soy una persona que le apasione los museos. mas bien lo contrario, me atrae el dinamismo, el poder interactuar con las obras. por lo que sin ir mas lejos, puedo catalogar esta experiencia como la mas impactante que pude vivir dentro de un museo. 
+En este caso me toca de cerca, ya que el material visual en forma de GIF son de mi propia cámara, y hasta día de hoy, me es imposible recordar ese paseo sin sentirme nimio frente a semejante metralla de estímulos. He de reconocer que no soy una persona que le apasione los museos. Más bien lo contrario, me atrae el dinamismo, el poder interactuar con las obras. Por lo que sin ir más lejos, puedo catalogar esta experiencia como la más impactante que pude vivir dentro de un museo. 
 
-Cada habitacion estaba plagada de estimulos, que por mas que volvieras una tercera vez, te garantizaba una nueva experiencia, por lo que (entiendiendo las limitaciones que conlleva ir a tokyo) se la recomiendo a todo el mundo. 
+Cada habitación estaba plagada de estímulos, que por más que volvieras una tercera vez, te garantizaba una nueva experiencia, por lo que (entendiendo las limitaciones que conlleva ir a Tokio) se la recomiendo a todo el mundo. 
 
 
 > "_Treinta años después de que Kay y Goldberg vaticinaran que el muevo metamedio ordenador contendría "un amplio abanico de medios ya existentes y otros aún por inventar", vemos a todas luces que acertaron con su prediccion" (manovich capt 3)_
