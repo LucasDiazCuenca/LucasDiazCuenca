@@ -64,6 +64,13 @@ Poniendo un ejemplo rapidamente, digamos que nos gustan los gatos y el espacio e
 
 ![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/DALL%C2%B7E%202-%20and%20oleo%20of%20a%20smiling%20cat%20in%20a%20spaceship(1).jpg)
 
+Podemos decir que en este medio hibrido, interactuan lenguajes previos y diferenciados entre si. Intercambian sus propiedades, crean nuevas estructuras e interactuan a los niveles mas profundos. Todo esto converge en un propio "metalenguaje" que combina las tecnicas de todos los lenguajes individuales anteriores. 
+
+> _"...,entramos en un nuevo modo regido por la hibridación. Los medios ya simulados empezaron a intercambiar propiedades y técnicas. Fruto de ello, el metamedio ordenador pasó a contener infinitas nuevas especies" (manovich capt 3)_
+
+> _"..., el metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear hibridos." (manovich capt 3)_
+
+> _
 
 
 
@@ -80,7 +87,7 @@ Poniendo un ejemplo rapidamente, digamos que nos gustan los gatos y el espacio e
 
 
 
-
+> "_Treinta años después de que Kay y Goldberg vaticinaran que el muevo metamedio ordenador contendría "un amplio abanico de medios ya existentes y otros aún por inventar", vemos a todas luces que acertaron con su prediccion" (manovich capt 3)_
 
 
 
@@ -89,10 +96,10 @@ Poniendo un ejemplo rapidamente, digamos que nos gustan los gatos y el espacio e
 
 ## Re-descubriendo la hibridacion: Caso 2
 
-  
+escenografia virtual con los parametros que estan delimitados por la interactibilidad de las personas y las dimensiones de los espacios. 
+Durante el paseo, podemos ver que el ordenador puede llegar a leer los movimientos corporales y los gestos de las personas que interactuan con las proyecciones de la pared y emplea esta informacion para controlara la generacion de una escenografia dinamica, alterando sus patrones, colores, formas y dimensiones. De esta forma, conforme se va caminando a lo largo de la experiencia, se transforma en una experiencia dinamica, interactiva que va cambiando a lo largo del recorrido. De esta manera, la apariencia de una habitacion cambia por completo segun el grado de interactibilidad. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Podemos decir aqui que este medio hibrido ha sufrido una reestructuración, Se ha cambiado la configuracion de los elementos que conforman la _estructura de datos_ de las dimensiones de las proyecciones. ha sido redimensionada para adaptarse a un espacio (habitacion) y conformar un nueva forma. Esta nueva estructura conserva la información y su relacion. Pero tambien cuenta con unas nuevas dimensiones, tamaño, bordes, interactibilidad, que combina los espacios como los de la habitacion para configurar un nuevo medio. 
   
   
 
