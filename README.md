@@ -78,38 +78,10 @@ Podemos iniciar las conclusiones bajo la siguiente cita:
 
 > _"...,entramos en un nuevo modo regido por la hibridación. Los medios ya simulados empezaron a intercambiar propiedades y técnicas. Fruto de ello, el metamedio ordenador pasó a contener infinitas nuevas especies" (manovich capt 3)_  
 
+Desde el primer momento que he descubierto la versión de Dall.E 1 en su versión beta, supe en ese momento que, esta clase de herramientas híbridas iban a suponer un punto y aparte en la historia. No estoy seguro si por esta misma empresa, sino por el concepto general de lo que era capaz la IA de aquel entonces. Sentía una especie de emoción ante nuevas herramientas que fueran capaces de hacer ver el mundo de una forma más dinámica, más interactiva. Por otro lado, me consternaba ese presagio de grandes cambios. Recordemos que mediante el proceso de la industrialización, por la automatización de procesos, la mano de obra se vio repercutida, aunque también creo que a día de hoy, se ha aprendido de esos errores, y saldrán puestos de trabajo cada vez más específicos, capaces de masterizar esta herramienta y las próximas. Que de momento las máquinas no piensan por si sola, somos nosotros los que seguimos dándoles instrucciones.
 
 
 
-
-
-
-
-
-> _"..., el metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear hibridos." (manovich capt 3)_
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-> "_Treinta años después de que Kay y Goldberg vaticinaran que el muevo metamedio ordenador contendría "un amplio abanico de medios ya existentes y otros aún por inventar", vemos a todas luces que acertaron con su prediccion" (manovich capt 3)_
-
-
-
-
-  
 
 ## Re-descubriendo la hibridacion: Mori Building Digital Art Museum
 ![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/Teamlab.png)
@@ -132,6 +104,10 @@ En este caso podemos deducir que se trata de una hibridación de interfaz de usu
 
 
 
+> _"..., el metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear hibridos." (manovich capt 3)_
+
+
+> "_Treinta años después de que Kay y Goldberg vaticinaran que el muevo metamedio ordenador contendría "un amplio abanico de medios ya existentes y otros aún por inventar", vemos a todas luces que acertaron con su prediccion" (manovich capt 3)_
 
 
 
