@@ -67,6 +67,7 @@ Poniendo un ejemplo rápidamente, digamos que nos gustan los gatos y el espacio 
 "and oleo of a smiling cat in a spaceship"??:
 
 ![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/DALL%C2%B7E%202-%20and%20oleo%20of%20a%20smiling%20cat%20in%20a%20spaceship(1).jpg)
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/variationes.png)
 
 Podemos decir que en este medio híbrido, interactúan lenguajes previos y diferenciados entre sí. Intercambian sus propiedades, crean nuevas estructuras e interactúan a los niveles más profundos. Todo esto converge en un propio "metalenguaje" que combina las técnicas de todos los lenguajes individuales anteriores. 
 
