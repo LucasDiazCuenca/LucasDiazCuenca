@@ -143,11 +143,18 @@ Cada habitación estaba plagada de estímulos, que por más que volvieras una te
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 
-https://openai.com/dall-e-2/
+- _Biblioteca de la UOC_ [en línea] [consulta: 12 de diciembre de 2022]. Disponible en: http://biblioteca.uoc.edu/ca 
+- _DALL·E 2_ [en línea] [consulta: 10 de diciembre de 2022]. Disponible en: https://openai.com/dall-e-2/
+- _DALL-E 2 ya puede expandir imágenes más allá de sus bordes_ [en línea] [consulta: 18 de diciembre de 2022]. Disponible en: https://hipertextual.com/2022/08/dalle-2-expandir-imagenes-mas-alla-de-sus-bordes
+- _ teamLab Borderless: MORI Building DIGITAL ART MUSEUM | teamLab_ [en línea] [consulta: 16 de diciembre de 2022]. Disponible en: https://www.teamlab.art/e/borderless_azabudai/
 
-https://hipertextual.com/2022/08/dalle-2-expandir-imagenes-mas-alla-de-sus-bordes
+ 
 
-https://www.teamlab.art/e/borderless_azabudai/
+
+
+
+
+
   
 
 ----
