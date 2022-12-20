@@ -37,9 +37,12 @@ Si bien ya sabemos lo que es la **hibridación** de los medios, es importante ap
 Esto nos facilitará el trabajo de análisis a la hora de hablar de mis dos casos a continuación.
 
 
-## Re-descubriendo la hibridacion: Caso de **Dall.E 2**
 
-Es un proyecto de IA de **OpenIA** (compañía situada en San Francisco), toma nombre de salvador dali y Wall.E (robot de pixar). Empresa tamben creadora de GPT3, un modelo de lenguaje autorregresivo que emplea aprendizaje profundo para producir textos que simulan la redacción humana. Esta IA combina el lenguaje natural con el entrenamiento de las imagenes para crear algo totalmente nuevo. 
+
+## Re-descubriendo la hibridacion: Caso de **Dall.E 2**
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/Dall.E%202.png)
+
+Es un proyecto de IA de **OpenIA** (compañía situada en San Francisco), toma nombre de salvador Dalí y Wall.E (robot de Pixar). Empresa también creadora de GPT3, un modelo de lenguaje autorregresivo que emplea aprendizaje profundo para producir textos que simulan la redacción humana. Esta IA combina el lenguaje natural con el entrenamiento de las imágenes para crear algo totalmente nuevo. 
 DALL-E 2 cuenta como punto fuerte con la creación de imágenes nuevas a partir de descripciones en texto. Pero es capaz de mucho más, como expandir los bordes de una imagen para dar contexto o editar fotografías ya existentes para generar algo nuevo.
 
 
@@ -47,30 +50,44 @@ DALL-E 2 cuenta como punto fuerte con la creación de imágenes nuevas a partir 
 > Ampliacion del fondo de la famosa obra "La joven de la perla, Pintura de Johannes Vermeer.
 
 
-Su premisa es bastante sencilla, pero extremadamente compleja a la vez. Desde una primera instancia, deja claro que no se trata de un medio **multimedia** ya que nos ofrece una maxima interactividad con esta nueva herramienta, combinando medios como:
+Su premisa es bastante sencilla, pero extremadamente compleja a la vez. Desde una primera instancia, deja claro que no se trata de un medio **multimedia**, ya que nos ofrece una máxima interactividad con esta nueva herramienta, combinando medios como:
 - Escribir templates para dar comandos 
 - IA generativa 
-- Recursos de edición de imagenes 
-- Subir imagenes 
-- Edicion de imagenes en linea 
+- Recursos de edición de imágenes 
+- Subir imágenes 
+- Edición de imágenes en línea 
 - compartir con usuarios diferentes templates online
-- Crear tu propia bliblioteca de stacks 
+- Crear tu propia biblioteca de stacks 
 - Etc.
 
-La combinacion de todos estos medios, nos deja ver, una experiencia que jamás hubieramos imaginado si utilizasemos estas herramientas por separado. 
 
-Poniendo un ejemplo rapidamente, digamos que nos gustan los gatos y el espacio exterior, que pasa si le pasamos el template de:
+La combinación de todos estos medios, nos deja ver, una experiencia que jamás hubiéramos imaginado si utilizásemos estas herramientas por separado. 
+
+Poniendo un ejemplo rápidamente, digamos que nos gustan los gatos y el espacio exterior, que pasa si le pasamos el template de:
 "and oleo of a smiling cat in a spaceship"??:
 
 ![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/DALL%C2%B7E%202-%20and%20oleo%20of%20a%20smiling%20cat%20in%20a%20spaceship(1).jpg)
 
-Podemos decir que en este medio hibrido, interactuan lenguajes previos y diferenciados entre si. Intercambian sus propiedades, crean nuevas estructuras e interactuan a los niveles mas profundos. Todo esto converge en un propio "metalenguaje" que combina las tecnicas de todos los lenguajes individuales anteriores. 
+Podemos decir que en este medio híbrido, interactúan lenguajes previos y diferenciados entre sí. Intercambian sus propiedades, crean nuevas estructuras e interactúan a los niveles más profundos. Todo esto converge en un propio "metalenguaje" que combina las técnicas de todos los lenguajes individuales anteriores. 
 
-> _"...,entramos en un nuevo modo regido por la hibridación. Los medios ya simulados empezaron a intercambiar propiedades y técnicas. Fruto de ello, el metamedio ordenador pasó a contener infinitas nuevas especies" (manovich capt 3)_
+En este caso podemos deducir claramente que se trata de una hibridación de manipulación de datos. Mediante la unión de esta herramienta, nos ofrece una forma nueva de interpretar el mundo mediante esta experiencia. Esto requiere, sin embargo, creatividad y comprensión de medios computacionales y su estética.
+
+### Conclusiones del caso de Dall.E 2
+
+Podemos iniciar las conclusiones bajo la siguiente cita: 
+
+> _"...,entramos en un nuevo modo regido por la hibridación. Los medios ya simulados empezaron a intercambiar propiedades y técnicas. Fruto de ello, el metamedio ordenador pasó a contener infinitas nuevas especies" (manovich capt 3)_  
+
+
+
+
+
+
+
+
 
 > _"..., el metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear hibridos." (manovich capt 3)_
 
-> _
 
 
 
@@ -94,14 +111,37 @@ Podemos decir que en este medio hibrido, interactuan lenguajes previos y diferen
 
   
 
-## Re-descubriendo la hibridacion: Caso 2
+## Re-descubriendo la hibridacion: Mori Building Digital Art Museum
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/Teamlab.png)
 
-escenografia virtual con los parametros que estan delimitados por la interactibilidad de las personas y las dimensiones de los espacios. 
-Durante el paseo, podemos ver que el ordenador puede llegar a leer los movimientos corporales y los gestos de las personas que interactuan con las proyecciones de la pared y emplea esta informacion para controlara la generacion de una escenografia dinamica, alterando sus patrones, colores, formas y dimensiones. De esta forma, conforme se va caminando a lo largo de la experiencia, se transforma en una experiencia dinamica, interactiva que va cambiando a lo largo del recorrido. De esta manera, la apariencia de una habitacion cambia por completo segun el grado de interactibilidad. 
+Escenografía virtual con los parámetros que están delimitados por la interactividad de las personas y las dimensiones de los espacios. 
+Durante el paseo, podemos ver que el ordenador puede llegar a leer los movimientos corporales y los gestos de las personas que interactúan con las proyecciones de la pared y emplea esta información para controlar la generación de una escenografía dinámica, alterando sus patrones, colores, formas y dimensiones. De esta forma, conforme se va caminando a lo largo de la experiencia, se transforma en una experiencia dinámica, interactiva, que va cambiando a lo largo del recorrido. De esta manera, la apariencia de una habitación cambia por completo, según el grado de interactividad. 
 
-Podemos decir aqui que este medio hibrido ha sufrido una reestructuración, Se ha cambiado la configuracion de los elementos que conforman la _estructura de datos_ de las dimensiones de las proyecciones. ha sido redimensionada para adaptarse a un espacio (habitacion) y conformar un nueva forma. Esta nueva estructura conserva la información y su relacion. Pero tambien cuenta con unas nuevas dimensiones, tamaño, bordes, interactibilidad, que combina los espacios como los de la habitacion para configurar un nuevo medio. 
-  
-  
+Podemos decir aquí que este medio híbrido ha sufrido una reestructuración, Se ha cambiado la configuración de los elementos que conforman la _estructura de datos_ de las dimensiones de las proyecciones. ha sido redimensionada para adaptarse a un espacio (habitación) y conformar una nueva forma. Esta nueva estructura conserva la información y su relación. Pero también cuenta con unas nuevas dimensiones, tamaño, bordes, interactividad, que combina los espacios como los de la habitación para configurar un nuevo medio. 
+
+En este caso podemos deducir que se trata de una hibridación de interfaz de usuario, ya que nos ofrece una nueva forma de navegar e interactuar con el medio. Las operaciones específicas que antes caracterizaban los medios, como un simple video, ahora se combinan para ofrecer al usuario otras maneras de navegar e interactuar con el medio ambiente.  
+
+
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/1.gif)
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/3.gif)
+
+
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/2.gif)
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/4.gif)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### Referencias y Bibliografía
 
@@ -109,8 +149,11 @@ Podemos decir aqui que este medio hibrido ha sufrido una reestructuración, Se h
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 
+https://openai.com/dall-e-2/
+
 https://hipertextual.com/2022/08/dalle-2-expandir-imagenes-mas-alla-de-sus-bordes
-  
+
+https://www.teamlab.art/e/borderless_azabudai/
   
 
 ----
