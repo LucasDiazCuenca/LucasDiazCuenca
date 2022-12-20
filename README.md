@@ -42,6 +42,8 @@ Esto nos facilitará el trabajo de análisis a la hora de hablar de mis dos caso
 DALL-E 2 cuenta como punto fuerte con la creación de imágenes nuevas a partir de descripciones en texto. Pero es capaz de mucho más, como expandir los bordes de una imagen para dar contexto o editar fotografías ya existentes para generar algo nuevo.
 Su primisa es bastante sencilla, pero extremadamente compleja a la vez. 
 
+
+
   
   > poner un ejemplo de ampliacion de cuadro con la ola de okinawa
   
