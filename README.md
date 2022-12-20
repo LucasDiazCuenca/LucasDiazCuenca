@@ -39,14 +39,52 @@ Esto nos facilitará el trabajo de análisis a la hora de hablar de mis dos caso
 
 ## Re-descubriendo la hibridacion: Caso de **Dall.E 2**
 
+Es un proyecto de IA de **OpenIA** (compañía situada en San Francisco), toma nombre de salvador dali y Wall.E (robot de pixar). Empresa tamben creadora de GPT3, un modelo de lenguaje autorregresivo que emplea aprendizaje profundo para producir textos que simulan la redacción humana. Esta IA combina el lenguaje natural con el entrenamiento de las imagenes para crear algo totalmente nuevo. 
 DALL-E 2 cuenta como punto fuerte con la creación de imágenes nuevas a partir de descripciones en texto. Pero es capaz de mucho más, como expandir los bordes de una imagen para dar contexto o editar fotografías ya existentes para generar algo nuevo.
 
-Su premisa es bastante sencilla, pero extremadamente compleja a la vez. 
 
 ![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/girl-with-a-pearl-earring-bts-cropped(1).gif)
+> Ampliacion del fondo de la famosa obra "La joven de la perla, Pintura de Johannes Vermeer.
 
-  
-  > poner un ejemplo de ampliacion de cuadro con la ola de okinawa
+
+Su premisa es bastante sencilla, pero extremadamente compleja a la vez. Desde una primera instancia, deja claro que no se trata de un medio **multimedia** ya que nos ofrece una maxima interactividad con esta nueva herramienta, combinando medios como:
+- Escribir templates para dar comandos 
+- IA generativa 
+- Recursos de edición de imagenes 
+- Subir imagenes 
+- Edicion de imagenes en linea 
+- compartir con usuarios diferentes templates online
+- Crear tu propia bliblioteca de stacks 
+- Etc.
+
+La combinacion de todos estos medios, nos deja ver, una experiencia que jamás hubieramos imaginado si utilizasemos estas herramientas por separado. 
+
+Poniendo un ejemplo rapidamente, digamos que nos gustan los gatos y el espacio exterior, que pasa si le pasamos el template de:
+"and oleo of a smiling cat in a spaceship"??:
+
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/DALL%C2%B7E%202-%20and%20oleo%20of%20a%20smiling%20cat%20in%20a%20spaceship(1).jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 
 ## Re-descubriendo la hibridacion: Caso 2
