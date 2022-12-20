@@ -83,10 +83,27 @@ Desde el primer momento que he descubierto la versión de Dall.E 1 en su versió
 
 
 
-## Re-descubriendo la hibridacion: Mori Building Digital Art Museum
+## Re-descubriendo la hibridacion: Mori Building Digital Art Museum (Teamlab borderless)
 ![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/Teamlab.png)
 
-Escenografía virtual con los parámetros que están delimitados por la interactividad de las personas y las dimensiones de los espacios. 
+
+
+
+__TeamLab__ es un colectivo de artistas digitales, que reúne a más de 400 profesionales de diferentes disciplinas (arte, programación, ingeniería, matemática o arquitectura) que investiga las vinculaciones entre el arte, la tecnología, el diseño y la naturaleza con el objetivo de explorar la relación de los individuos con el mundo que les rodea. Son además los responsables de fundar el primer museo de arte digital del mundo, el __Mori Building Digital Art Museum__ , en Japón. es un museo de arte digital interactiva que culmina en una nueva experiencia para el usuario.
+
+Con un espacio de más de 10000 metros cuadrados, cuentan con más de 60 obras de arte digital, creadas a partir de más de 500 ordenadores y más de 450 proyectores digitales. Estas obras son proyecciones tridimensionales animadas, que cambian en función de la interacción con los visitantes, los espacios de las habitaciones/espejos y resto de elementos. En última instancia, busca, de forma casi orgánica, la interacción con el usuario. 
+El museo no cuenta con un camino establecido, dando libre albedrío al visitante para que su experiencia sea única. Acompañado de una música envolvente, garantiza una experiencia única. 
+
+
+> _"..., el metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear hibridos." (manovich capt 3)_
+
+
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/1.gif)
+
+
+
+Quizas me doy cuenta que soy una persona visual en cuanto a los ejemplos de hibridacíon, puesto que he elegido un segundo caso que no da lugar a dudas que tratamos con un hibrido. 
+En este caso, la escenografía virtual con sus parámetros iniciales, están delimitados por la interactividad de las personas y las dimensiones de los espacios. 
 Durante el paseo, podemos ver que el ordenador puede llegar a leer los movimientos corporales y los gestos de las personas que interactúan con las proyecciones de la pared y emplea esta información para controlar la generación de una escenografía dinámica, alterando sus patrones, colores, formas y dimensiones. De esta forma, conforme se va caminando a lo largo de la experiencia, se transforma en una experiencia dinámica, interactiva, que va cambiando a lo largo del recorrido. De esta manera, la apariencia de una habitación cambia por completo, según el grado de interactividad. 
 
 Podemos decir aquí que este medio híbrido ha sufrido una reestructuración, Se ha cambiado la configuración de los elementos que conforman la _estructura de datos_ de las dimensiones de las proyecciones. ha sido redimensionada para adaptarse a un espacio (habitación) y conformar una nueva forma. Esta nueva estructura conserva la información y su relación. Pero también cuenta con unas nuevas dimensiones, tamaño, bordes, interactividad, que combina los espacios como los de la habitación para configurar un nuevo medio. 
@@ -94,24 +111,25 @@ Podemos decir aquí que este medio híbrido ha sufrido una reestructuración, Se
 En este caso podemos deducir que se trata de una hibridación de interfaz de usuario, ya que nos ofrece una nueva forma de navegar e interactuar con el medio. Las operaciones específicas que antes caracterizaban los medios, como un simple video, ahora se combinan para ofrecer al usuario otras maneras de navegar e interactuar con el medio ambiente.  
 
 
-![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/1.gif)
-![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/3.gif)
-
-
-![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/2.gif)
 ![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/4.gif)
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/2.gif)
 
+### Conclusiones de Mori Building Digital Art Museum (Teamlab borderless)
 
+En este caso me toca de cerca, ya que el material visual en forma de GIF son de mi propia camara, y hasta dia de hoy, me es imposible recordar ese paseo sin sentirme nimio frente a semejante metratella de estimulos. He de reconocer que no soy una persona que le apasione los museos. mas bien lo contrario, me atrae el dinamismo, el poder interactuar con las obras. por lo que sin ir mas lejos, puedo catalogar esta experiencia como la mas impactante que pude vivir dentro de un museo. 
 
-
-> _"..., el metamedio ordenador es un verdadero cajón de sastre para muchas cosas, pero, más que contener una variedad de medios separados, en realidad engloba un conjunto mayor de pequeños componentes que se unen para crear hibridos." (manovich capt 3)_
+Cada habitacion estaba plagada de estimulos, que por mas que volvieras una tercera vez, te garantizaba una nueva experiencia, por lo que (entiendiendo las limitaciones que conlleva ir a tokyo) se la recomiendo a todo el mundo. 
 
 
 > "_Treinta años después de que Kay y Goldberg vaticinaran que el muevo metamedio ordenador contendría "un amplio abanico de medios ya existentes y otros aún por inventar", vemos a todas luces que acertaron con su prediccion" (manovich capt 3)_
 
 
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/3.gif)
 
 
+
+
+## Conclusiones Generales
 
 
 
