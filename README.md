@@ -40,11 +40,10 @@ Esto nos facilitará el trabajo de análisis a la hora de hablar de mis dos caso
 ## Re-descubriendo la hibridacion: Caso de **Dall.E 2**
 
 DALL-E 2 cuenta como punto fuerte con la creación de imágenes nuevas a partir de descripciones en texto. Pero es capaz de mucho más, como expandir los bordes de una imagen para dar contexto o editar fotografías ya existentes para generar algo nuevo.
-Su primisa es bastante sencilla, pero extremadamente compleja a la vez. 
 
-![Ampliacion del background](https://github.com/LucasDiazCuenca/blob/main/girl-with-a-pearl-earring-bts-cropped.mp4)
+Su premisa es bastante sencilla, pero extremadamente compleja a la vez. 
 
-![Traducciones en tiempo real](https://github.com/ssantanado/PEC3_Manovich_Reloaded/blob/main/imagenes/Traducciones.jpg)
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/girl-with-a-pearl-earring-bts-cropped(1).gif)
 
   
   > poner un ejemplo de ampliacion de cuadro con la ola de okinawa
@@ -65,6 +64,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC.
 
+https://hipertextual.com/2022/08/dalle-2-expandir-imagenes-mas-alla-de-sus-bordes
   
   
 
