@@ -131,7 +131,7 @@ Cada habitación estaba plagada de estímulos, que por más que volvieras una te
 
 ## Conclusiones Generales
 
-
+En general, desde un comienzo, estos dos casos, ya venían casi de forma sentenciada su latencia y clara hibridación, pues es _natural_ sentir o experimentar situaciones nuevas con estas nuevas herramientas. Tanto Dall.E como TeamLab creo fielmente que marcan un punto de inicio (y no tan inicio) tangible de la pendiente hacia donde se orientarán las nuevas tecnologías, software y medios. Por lo que considero que no solo es importante entender como funcionan, sino más bien, comprender su historia, su usabilidad y contexto, en un plano actual, donde la tendencia como moda es la hibridación. 
 
 
 
