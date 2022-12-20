@@ -136,6 +136,8 @@ Cada habitación estaba plagada de estímulos, que por más que volvieras una te
 
 
 
+![Ampliacion del background](https://github.com/LucasDiazCuenca/PEC3_Manovich_Reloaded/blob/main/DALL%C2%B7E%202-%20Ukiyo-e%20painting%20of%203%20cats%20looking%20a%20painting.jpg)
+
 
 ### Referencias y Bibliografía
 
