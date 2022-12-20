@@ -39,9 +39,8 @@ Esto nos facilitará el trabajo de análisis a la hora de hablar de mis dos caso
 
 ## Re-descubriendo la hibridacion: Caso de **Dall.E 2**
 
-  
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+DALL-E 2 cuenta como punto fuerte con la creación de imágenes nuevas a partir de descripciones en texto. Pero es capaz de mucho más, como expandir los bordes de una imagen para dar contexto o editar fotografías ya existentes para generar algo nuevo.
+Su primisa es bastante sencilla, pero extremadamente compleja a la vez. 
 
   
   > poner un ejemplo de ampliacion de cuadro con la ola de okinawa
