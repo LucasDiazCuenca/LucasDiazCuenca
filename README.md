@@ -118,7 +118,7 @@ En este caso podemos deducir que se trata de una hibridación de interfaz de usu
 
 En este caso me toca de cerca, ya que el material visual en forma de GIF son de mi propia cámara, y hasta día de hoy, me es imposible recordar ese paseo sin sentirme nimio frente a semejante metralla de estímulos. He de reconocer que no soy una persona que le apasione los museos. Me atrae el dinamismo, el poder interactuar con las obras. Por lo que sin ir más lejos, puedo catalogar esta experiencia como la más impactante que pude vivir dentro de un museo. 
 
-Cada habitación estaba plagada de estímulos, que por más que volvieras una tercera vez, te garantizaba una nueva experiencia, por lo que (entendiendo las limitaciones que conlleva ir a Tokio) se la recomiendo a todo el mundo. 
+Cada habitación estaba plagada de estímulos, que por más que volvieras una tercera vez a esa misma habitación, te garantizaba una nueva experiencia, por lo que (entendiendo las limitaciones que conlleva ir a Tokio) se la recomiendo a todo el mundo. 
 
 
 > "_Treinta años después de que Kay y Goldberg vaticinaran que el muevo metamedio ordenador contendría "un amplio abanico de medios ya existentes y otros aún por inventar", vemos a todas luces que acertaron con su prediccion" (manovich capt 3)_
